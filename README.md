@@ -1,4 +1,4 @@
-# Student Management System (CRUD)
+# Student Management System
 
 ## Description
 This project is a simple web-based Student Management System developed using PHP, MySQL, HTML, and CSS. It demonstrates basic CRUD (Create, Read, Update, Delete) operations.
